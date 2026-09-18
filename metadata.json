@@ -1,0 +1,10 @@
+{
+  "name": "Volvelle Vespa Velutina",
+  "description": "Una rueda de decisión interactiva (Volvelle) para la gestión integral de la avispa asiática (Vespa velutina), proporcionando protocolos de actuación según el entorno y la época del año.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
